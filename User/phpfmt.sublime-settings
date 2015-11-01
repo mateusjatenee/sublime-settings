@@ -1,0 +1,5 @@
+{
+	"psr2": true,
+	"skip_if_ini_missing": true,
+	"version": 1
+}

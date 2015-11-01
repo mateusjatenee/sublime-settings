@@ -1,0 +1,11 @@
+{
+	"dialog": false,
+	"growl_active": true,
+	"machine_name": "Mateus Mac",
+	"notify_send_active": true,
+	"notify_send_path": "/usr/bin/notify-send",
+	"pushover_active": false,
+	"pushover_user_id": "",
+	"user_id": "0e0dbb30edc20c04154895af9b6b1a73d1f0ea6f",
+	"user_token": "499c7da74e7fe182bd454a3d0749958b13c89d52"
+}
